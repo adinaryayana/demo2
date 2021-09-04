@@ -1,0 +1,16 @@
+-----started Tc-002-----
+initialising the dependency files ....
+-----started Tc-002-----
+initialising the dependency files ....
+opening the browser:-chrome
+-----started Tc-002-----
+initialising the dependency files ....
+opening the browser:-chrome
+Navigated to:-https://www.amazon.in
+selected the option books by using the Locater:-searchDropdownBox
+Entered the test Harry Potter by using locater:-field-keywords
+click on search button by using locater:-//input[@id='nav-search-submit-button']
+-----Ended Tc_002-----
+-----started Tc-002-----
+initialising the dependency files ....
+opening the browser:-chrome
